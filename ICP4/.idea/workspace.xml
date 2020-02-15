@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10f52dae-5833-44f4-a8a7-082787f275ce" name="Default Changelist" comment="" />
+    <list default="true" id="708f804c-fa38-4591-b9d5-979bc0689dec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1XXVwiPDozwFhVJehNfbqZeuENr" />
+  <component name="ProjectId" id="1XrEnI7SJYudOrQVI0jJMUPm9HZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,11 +18,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/style.css" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Web_Lesson4 (1)/Web_Lesson4/Use_Case" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,13 +40,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="10f52dae-5833-44f4-a8a7-082787f275ce" name="Default Changelist" comment="" />
-      <created>1581192666035</created>
+      <changelist id="708f804c-fa38-4591-b9d5-979bc0689dec" name="Default Changelist" comment="" />
+      <created>1581795978775</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581192666035</updated>
-      <workItem from="1581192667180" duration="6401000" />
-      <workItem from="1581204254183" duration="8367000" />
+      <updated>1581795978775</updated>
+      <workItem from="1581795980150" duration="4050000" />
     </task>
     <servers />
   </component>
@@ -64,13 +53,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581215732282">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581800069981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581215732282" />
-    <state x="431" y="145" width="670" height="676" key="search.everywhere.popup" timestamp="1581198016068">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581198016068" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581800069981" />
   </component>
 </project>
