@@ -1,0 +1,21 @@
+.parent-container {
+  position: relative;
+  height:100%;
+  width: 100%;
+}
+
+.child-container {
+  color: cornflowerblue;
+  text-align: center;
+  position: center;
+
+}
+.desc {
+  font-family: "Bookman Old Style";
+  font-size: 19px;
+  color: black;
+}
+
+.gobtn{
+  background-color: yellowgreen;
+}
