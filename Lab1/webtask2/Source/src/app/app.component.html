@@ -1,0 +1,23 @@
+<div id="main-content">
+  <h1> Snake Game </h1>
+</div>
+<div class="game-container">
+  <div class="game-header">
+
+    <div class="score-div">
+      <div>
+        Player Name
+        <input type="text" [(ngModel)]="playerName">
+      </div>
+      <h3 class="score" [ngClass]="{'new-best-score': newBestScore}">Score: {{score}}</h3>
+      <h3 class="best-score" [ngClass]="{'new-best-score': newBestScore}"> Player Name: {{best_score.name}} &nbsp;&nbsp; High Score: {{best_score.score}}</h3>
+    </div>
+    <div class="start-button" [ngClass]="{'disable-clicks': gameStarted}" (click)="newGame()">Start Game</div>
+
+  </div>
+  <div class="board">
+    <div class="row" *ngFor="let column of board; let i = index;">
+      <div class="column" [ngStyle]="{'background-color': setColors(i, j)}" *ngFor="let row of column; let j = index"></div>
+    </div>
+  </div>
+</div>
