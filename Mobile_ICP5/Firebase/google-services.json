@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262080181073",
+    "firebase_url": "https://firesample1802.firebaseio.com",
+    "project_id": "firesample1802",
+    "storage_bucket": "firesample1802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262080181073:android:b7ea0beba49ea73a849970",
+        "android_client_info": {
+          "package_name": "com.example.raj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262080181073-12vt18h450442555tb7fugebnbkhmsum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTRuyKgecT5MslOVEiAkf1WdUiaeSYEY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262080181073-12vt18h450442555tb7fugebnbkhmsum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
