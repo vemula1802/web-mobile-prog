@@ -2,11 +2,11 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout') {
+        /*stage('Checkout') {
             steps {
                 git 'https://github.com/vemula1802/web-mobile-prog.git'
             }
-        }
+        }*/
         stage('Hello') {
             steps {
                 sh 'ls'
